@@ -8,11 +8,12 @@ title: Sujhal Gurav Portfolio
 
 🌱 **Passionate about:**  
 - **Cybersecurity Projects**  
-- Learning **Python, MySQL, and BASH**  
-- Exploring creative solutions to real-world challenges.  
+- Learning **Python, MySQL, and BASH**   
+- Exploring creative solutions to real-world challenges.
+- Currently Learning **cloud Based Platform (Azure)** **Digital Forensics** 
 
 🔭 **Current Project:**  
-- [Setting SEIM on a VM By Azure](https://github.com/Heartking-2324/NetSleuths)  
+- [Setting SEIM on a VM By Azure](https://github.com/Heartking-2324/SEIM_Azure)  
 
 💬 **Ask Me About:**  
 - Cybersecurity Fundamentals 🛡️  
