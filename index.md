@@ -12,7 +12,7 @@ title: Sujhal Gurav Portfolio
 - Exploring creative solutions to real-world challenges.  
 
 🔭 **Current Project:**  
-- [Agent-less Windows System Vulnerability and Network Scanner](https://github.com/Heartking-2324/NetSleuths)  
+- [Setting SEIM on a VM By Azure](https://github.com/Heartking-2324/NetSleuths)  
 
 💬 **Ask Me About:**  
 - Cybersecurity Fundamentals 🛡️  
