@@ -29,8 +29,20 @@ title: Sujhal Gurav Portfolio
 - 🏏 Cricket enthusiast  
 - 🎶 Skilled at playing the **tabla** and **flute**  
 - 💻 Creator of fun, innovative projects  
-- 🔍 Active learner on **TryHackMe** (Level 9 - OMNI)  
-  ![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/Heartking.png)
+- ## 🔍 Active on TryHackMe  
+<p align="center">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/Heartking.png" alt="TryHackMe Badge" />
+</p>
+
+### **Heartking**  
+- **Rank:** 0xB (Master) - Top 2%  
+- **Global Rank:** 24,841  
+- **Badges Earned:** 24 🏅  
+- **Completed Rooms:** 123 🏠  
+- **Highest Streak:** 48 🔥  
+
+👉 [Visit My TryHackMe Profile](https://tryhackme.com/p/Heartking)
+
 
 ---
 
