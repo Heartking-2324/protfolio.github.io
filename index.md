@@ -48,7 +48,7 @@ title: Sujhal Gurav Portfolio
 
 ## 📄 Download My Resume  
 <p align="center">
-  <a href="https://github.com/Heartking-2324/protfolio.github.io/blob/main/SujhalGuravResume%20final%20.pdf" download>
+  <a href="SujhalGuravResume%20final%20.pdf" download="SujhalGuravResume">
     <button style="width: 80%; background-color:#0366d6; color:white; padding:15px 20px; border:none; border-radius:10px; font-size:18px; cursor:pointer;">
       Download My Resume
     </button>
