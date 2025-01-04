@@ -4,13 +4,13 @@ title: Sujhal Gurav Portfolio
 ---
 
 # 👋 Hello, I'm **Sujhal Gurav**  
-### Cybersecurity Student | Python Enthusiast | Hackathon Winner | Internship Coordinator  
+### Cybersecurity Student | Python Enthusiast | Hackathon Winner | Hackathon Ambassador | Internship Coordinator  
 
 🌱 **Passionate about:**  
 - **Cybersecurity Projects**  
 - Learning **Python, MySQL, and BASH**   
-- Exploring creative solutions to real-world challenges.
-- Currently Learning **cloud Based Platform (Azure)** **Digital Forensics** 
+- Exploring creative solutions to real-world challenges.  
+- Currently Learning **cloud-Based Platform (Azure)** **Digital Forensics**  
 
 🔭 **Current Project:**  
 - [Setting SEIM on a VM By Azure](https://github.com/Heartking-2324/SEIM_Azure)  
@@ -28,9 +28,20 @@ title: Sujhal Gurav Portfolio
 ## ⚡ Fun Facts
 - 🏏 Cricket enthusiast  
 - 🎶 Skilled at playing the **tabla** and **flute**  
-- 💻 Creator of fun, innovative projects.  
+- 💻 Creator of fun, innovative projects  
 - 🔍 Active learner on **TryHackMe** (Level 9 - OMNI)  
   ![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/Heartking.png)
+
+---
+
+## 📄 Download My Resume  
+<p align="center">
+  <a href="resume.pdf" download>
+    <button style="width: 80%; background-color:#0366d6; color:white; padding:15px 20px; border:none; border-radius:10px; font-size:18px; cursor:pointer;">
+      Download My Resume
+    </button>
+  </a>
+</p>
 
 ---
 
@@ -71,4 +82,11 @@ title: Sujhal Gurav Portfolio
 ## 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Heartking-2324&layout=compact&theme=radical" alt="GitHub Stats">
+</p>
+
+---
+
+## 📜 Acknowledgments  
+<p align="center">
+  <small>protfolio.github.io is maintained by Heartking-2324.</small>
 </p>
